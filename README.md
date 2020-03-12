@@ -1,2 +1,2 @@
 # bion
-binary object notation loosly based on json
+binary object notation loosley based on json
